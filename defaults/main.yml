@@ -1,0 +1,6 @@
+---
+# defaults file for 7zip
+
+id: 7zip
+version: 16.4.0.20170506
+mode: pull

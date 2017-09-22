@@ -1,0 +1,12 @@
+---
+# vars file for 7zip
+
+dirs_info:
+  Windows:
+    tmp: C:\tmp
+
+packages_info:
+  16.4.0.20170506:
+    Windows:
+      file: 7zip.install.16.4.0.20170506.nupkg
+      pull: ftp://10.0.250.100/pub/7zip/7zip.install.16.4.0.20170506.nupkg
